@@ -1,0 +1,13 @@
+particle: happyVillager
+fly-on-join: false
+free-fly: false
+particle-permissions:
+  - 'particle1;angryVillager' #simplefly.effects.particle1
+  - 'particle2;explode' #simplefly.effects.particle2
+messages:
+  prefix: "&b[SimpleFly] "
+  reload: "&aThe plugin reloaded correctly!"
+  no-permission: "&cYou don't have permission for this!"
+  fly-on: "&aThe fly has been activated"
+  fly-off: "&cThe fly has been deactivated"
+  player-offline: "&e%player% &cis offline!"

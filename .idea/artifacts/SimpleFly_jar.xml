@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleFly:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleFly_jar</output-path>
+    <root id="archive" name="SimpleFly.jar">
+      <element id="module-output" name="SimpleFly" />
+    </root>
+  </artifact>
+</component>
